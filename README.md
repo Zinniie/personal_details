@@ -6,7 +6,7 @@
 
 This Flutter mobile application is developed as part of the HNGX Internship Stage One program. The task is to create a mobile application that prominently features my personal details, including my Slack display picture and name, and includes a "Open GitHub" button that redirects users to my GitHub profile using a WebView component within the application.
 
-Additionally, a virtualized demonstration of the app is available using [Appetize.io](https://appetize.io/) at this [link](https://appetize.io/app/YOUR_APPETIZE_IO_LINK).
+Additionally, a virtualized demonstration of the app is available using [Appetize.io](https://appetize.io/) at this [link](https://appetize.io/app/upzo5hnh2ixhbarei7iaguvbgm?device=pixel4&osVersion=11.0&scale=75).
 
 ## Table of Contents
 - [Getting Started](#getting-started)
