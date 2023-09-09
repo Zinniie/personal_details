@@ -85,19 +85,27 @@ class _PersonalDetailsState extends State<PersonalDetails> {
                       ),
                       child: CustomPaddedWidget(
                         child: Center(
-                            child: Container(
-                          decoration: BoxDecoration(
-                            color: Colors.grey.shade100,
-                            borderRadius: BorderRadius.circular(
-                              getProportionateScreenWidth(20),
+                            child: InkWell(
+                          onTap: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => const WebViewStack(),
+                              ),
+                            );
+                          },
+                          child: Container(
+                            decoration: BoxDecoration(
+                              color: Colors.grey.shade100,
+                              borderRadius: BorderRadius.circular(
+                                getProportionateScreenWidth(20),
+                              ),
                             ),
-                          ),
-                          child: Padding(
-                            padding: EdgeInsets.symmetric(
-                              horizontal: getProportionateScreenWidth(16),
-                              vertical: getProportionateScreenHeight(10),
-                            ),
-                            child: GestureDetector(
+                            child: Padding(
+                              padding: EdgeInsets.symmetric(
+                                horizontal: getProportionateScreenWidth(16),
+                                vertical: getProportionateScreenHeight(10),
+                              ),
                               child: Padding(
                                 padding: EdgeInsets.symmetric(
                                     horizontal: getProportionateScreenWidth(8)),
@@ -133,14 +141,6 @@ class _PersonalDetailsState extends State<PersonalDetails> {
                                   ],
                                 ),
                               ),
-                              onTap: () {
-                                Navigator.push(
-                                  context,
-                                  MaterialPageRoute(
-                                    builder: (context) => const WebViewStack(),
-                                  ),
-                                );
-                              },
                             ),
                           ),
                         )),

@@ -1,16 +1,49 @@
-# personal_details
+# My Personal Details App
 
-A new Flutter project.
+![App Screenshot](assets/png/app_screenshot.png)
+
+**Task: Create a Mobile Application with Personal Details (HNGX Internship Stage One)**
+
+This Flutter mobile application is developed as part of the HNGX Internship Stage One program. The task is to create a mobile application that prominently features my personal details, including my Slack display picture and name, and includes a "Open GitHub" button that redirects users to my GitHub profile using a WebView component within the application.
+
+Additionally, a virtualized demonstration of the app is available using [Appetize.io](https://appetize.io/) at this [link](https://appetize.io/app/YOUR_APPETIZE_IO_LINK).
+
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+
 
 ## Getting Started
+### Prerequisites
 
-This project is a starting point for a Flutter application.
+Before you begin, ensure you have met the following requirements:
+- [Flutter](https://flutter.dev/) installed on your development machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/Zinniie/personal_details.git
+
+2. Install dependencies:-  flutter pub get
+
+
+## Usage
+Open the project in your preferred Flutter development environment (e.g., Visual Studio Code or Android Studio).
+
+Connect your mobile device or use an emulator.
+
+Build and run the app: flutter run
+
+Once the app is running, you will see my Slack profile picture and name on the main screen.
+
+Tap the "Open GitHub" button to view my GitHub profile within the app using a WebView component.
+
+## Features
+- Display my Slack profile picture and name.
+- Easily access my GitHub profile within the app.
+- Virtualized demonstration available here.
