@@ -49,4 +49,4 @@ Tap the "Open GitHub" button to view my GitHub profile within the app using a We
 - Display my Slack profile picture and name.
 - Easily access my GitHub profile within the app.
 - Virtualized demonstration available on Appetize.io
-[[here](https://appetize.io/app/upzo5hnh2ixhbarei7iaguvbgm?device=pixel4&osVersion=11.0&scale=75)]
+
