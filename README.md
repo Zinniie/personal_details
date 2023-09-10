@@ -47,6 +47,6 @@ Tap the "Open GitHub" button to view my GitHub profile within the app using a We
 
 ## Features
 - Display my Slack profile picture and name.
-- Easily access my GitHub profile within the app.
+- Easily access my GitHub profile within the app onTap of the "Open Github" button.
 - Virtualized demonstration available on Appetize.io
 
