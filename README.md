@@ -9,11 +9,13 @@ This Flutter mobile application is developed as part of the HNGX Internship Stag
 Additionally, a virtualized demonstration of the app is available using [Appetize.io](https://appetize.io/) at this [link](https://appetize.io/app/upzo5hnh2ixhbarei7iaguvbgm?device=pixel4&osVersion=11.0&scale=75).
 
 ## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
+- [My Personal Details App](#my-personal-details-app)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Usage](#usage)
+  - [Features](#features)
 
 
 ## Getting Started
@@ -46,4 +48,5 @@ Tap the "Open GitHub" button to view my GitHub profile within the app using a We
 ## Features
 - Display my Slack profile picture and name.
 - Easily access my GitHub profile within the app.
-- Virtualized demonstration available here.
+- Virtualized demonstration available on Appetize.io
+[[here](https://appetize.io/app/upzo5hnh2ixhbarei7iaguvbgm?device=pixel4&osVersion=11.0&scale=75)]
